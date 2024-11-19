@@ -1,0 +1,264 @@
+.button-module__button___hf2qg_marketplace {
+  color: var(--spice-subtext);
+}
+
+.main-entityHeader-backgroundColor {
+  background-color: #00000000 !important; /* Transparent background */
+}
+
+.main-home-homeHeader {
+  background-color: #000000 !important; /* Black background */
+  background-image: none !important;
+}
+
+.Root__top-container {
+  background: linear-gradient(180deg, #550000 0%, #000000 100%); /* Deep red to black gradient */
+  overflow: hidden;
+  grid-template-areas:
+    "left-sidebar    main-view         now-playing-bar"
+    "left-sidebar    main-view         right-sidebar";
+}
+
+.global-nav .Root__top-container {
+  grid-template-areas:
+    "global-nav global-nav global-nav"
+    "left-sidebar main-view now-playing-bar"
+    "left-sidebar main-view right-sidebar" !important;
+}
+
+.Root__right-sidebar {
+  width: min-content;
+}
+
+.Root__now-playing-bar {
+  width: var(--panel-width);
+}
+
+.main-topBar-background {
+  background-color: #440000 !important; /* Dark red for top bar */
+}
+
+.Root__nav-bar {
+  background-color: #00000000 !important; /* Transparent nav bar */
+}
+
+.main-trackList-trackListRow:hover {
+  background-color: #550000; /* Dark red highlight for rows */
+}
+
+.main-playPauseButton-button {
+  background-color: #FF4444; /* Bright red for play/pause button */
+}
+
+.rX_OmqCngvY5ZCoYBZgb {
+  background-color: #00000000 !important; /* Transparent */
+}
+
+.main-yourLibraryX-entryPoints {
+  background-color: #00000000 !important; /* Transparent */
+}
+
+.marketplace-header {
+  background-color: #00000000 !important; /* Transparent */
+}
+
+.EmeHQXR87mUskYK6xEde {
+  background-color: #00000000 !important; /* Transparent */
+}
+
+.lyrics-lyrics-background {
+  background-color: #00000000 !important; /* Transparent */
+}
+
+.main-actionBarBackground-background {
+  background-image: none;
+  background-color: #00000000 !important; /* Transparent */
+  animation: none !important;
+  -webkit-animation: none !important;
+}
+
+.main-entityHeader-overlay {
+  background: none !important;
+}
+
+.main-entityHeader-background.main-entityHeader-gradient {
+  opacity: 0.5;
+  animation: none !important;
+}
+
+.main-entityHeader-background.main-entityHeader-overlay:after {
+  background-image: none !important;
+  animation: none !important;
+  -webkit-animation: none !important;
+}
+
+.pUNc2aOeOQANHrhYa1GU .RDZ61ETnag1ilfZTkVxe {
+  color: #FF9999 !important; /* Light red text */
+}
+
+.playlist-playlist-playlistContent {
+  background: #000000 !important; /* Black playlist background */
+}
+
+.main-nowPlayingBar-nowPlayingBar {
+  min-height: 400px;
+}
+
+.main-nowPlayingBar-container {
+  flex-direction: column;
+  min-width: 280px;
+  max-width: 420px;
+}
+
+.main-nowPlayingBar-nowPlayingBar {
+  flex-direction: column;
+}
+
+[data-right-sidebar-hidden] .Root__main-view {
+  grid-area: main-view/main-view/main-view/span 1;
+}
+
+.Root__main-view {
+  background-color: #000000 !important; /* Black background */
+}
+
+.main-nowPlayingBar-center {
+  width: 100%;
+}
+
+.main-nowPlayingBar-left {
+  width: 100%;
+}
+
+.HD9s7U5E1RLSWKpXmrqx {
+  background-color: #00000000;
+  margin: auto;
+  width: 100%;
+}
+
+.main-nowPlayingWidget-coverArt .cover-art {
+  height: 220px !important;
+  width: 220px !important;
+  margin: auto;
+  background-color: #00000000; /* Transparent */
+  box-shadow: 0 0 0px var(--spice-rgb-shadow);
+}
+
+.main-nowPlayingWidget-coverArt .cover-art img {
+  border-radius: 50%;
+  animation: spin 25s linear infinite;
+  animation-play-state: paused;
+  background-color: #00000000; /* Transparent */
+  box-shadow: 0 0 5px 5px #FF4444; /* Bright red shadow */
+}
+
+.running-animation {
+  animation-play-state: running !important;
+}
+
+.main-coverSlotCollapsed-container {
+  width: 100%;
+  height: 100%;
+}
+
+.main-coverSlotCollapsed-container> :first-child {
+  width: 100%;
+  height: 100%;
+}
+
+.main-coverSlotCollapsed-container> :first-child> :first-child {
+  width: 100%;
+  height: 100%;
+  background-color: #00000000; /* Transparent */
+}
+
+.main-nowPlayingWidget-coverArt {
+  width: 100%;
+  height: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #00000000; /* Transparent */
+}
+
+.main-nowPlayingWidget-nowPlaying {
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.main-coverSlotCollapsed-expandButton {
+  right: 25%;
+}
+
+.player-controls__buttons.player-controls__buttons--new-icons {
+  order: 2;
+}
+
+.playback-bar {
+  order: 1;
+}
+
+.main-nowPlayingBar-right {
+  width: 100%;
+}
+
+.main-nowPlayingBar-extraControls {
+  justify-content: space-evenly;
+}
+
+.main-tag-container {
+  color: #FF9999; /* Light red text */
+}
+
+.starrynight-bg-container {
+  position: fixed;
+  z-index: 0;
+  pointer-events: none;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.ffFwfKcPDbmAPLXzxzKq {
+  background-color: #00000000 !important; /* Transparent */
+}
+
+.shootingstar {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: #FF0000; /* Bright red for shooting stars */
+  border-radius: 50%;
+  animation: animate 3s linear infinite;
+  left: initial;
+  z-index: -1;
+}
+
+.shootingstar::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 300px;
+  height: 1px;
+  background: linear-gradient(90deg, #FF0000, transparent); /* Red trail */
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(315deg) translateX(0);
+    opacity: 1;
+  }
+
+  70% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: rotate(315deg) translateX(-1500px);
+    opacity: 0;
+  }
+}
